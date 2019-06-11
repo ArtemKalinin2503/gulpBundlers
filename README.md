@@ -11,3 +11,5 @@
 
 - npm install
 - gulp serve
+
+Полезная ссылка: https://github.com/sinups/frontend-kit
