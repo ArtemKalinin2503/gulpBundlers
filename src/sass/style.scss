@@ -1,0 +1,13 @@
+@import "blocks/variables.scss";
+@import "blocks/mixins.scss";
+@import "blocks/normalize.scss";
+@import "blocks/fonts.scss";
+
+// PAGE COMPONENTS
+@import "blocks/header.scss";
+
+body {
+  background: red;
+  display: flex;
+}
+
